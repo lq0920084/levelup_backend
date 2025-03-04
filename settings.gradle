@@ -3,4 +3,4 @@ include 'security'
 include 'mvc'
 include 'common'
 include 'user'
-
+include 'product-review-game'
