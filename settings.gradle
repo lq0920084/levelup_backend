@@ -3,4 +3,5 @@ include 'security'
 include 'mvc'
 include 'common'
 include 'user'
+include 'order-bill-payment-chatroom'
 
